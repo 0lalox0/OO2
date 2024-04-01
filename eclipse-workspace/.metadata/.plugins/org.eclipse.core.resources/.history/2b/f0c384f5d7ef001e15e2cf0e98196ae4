@@ -1,0 +1,24 @@
+package Ejercicio1;
+
+import java.util.List;
+
+public class Sistema {
+	private List<Usuario> usuarios;
+	public Sistema() {
+		
+	}
+	public Sistema(List<Usuario> users) {
+		usuarios = users;
+	}
+	public void AgregarUsuario(Usuario user) {
+		usuarios.add(user);
+	}
+	public void EliminarUsuario(Usuario user) {
+		usuarios.forEach(t -> t.eliminarRetweets(user.getPublicaciones()));
+		user.eliminame();
+		usuarios.remove(user);
+	}
+	public void MostrarUsuarios() {
+		System.out.println(usuarios.size());
+	}
+}

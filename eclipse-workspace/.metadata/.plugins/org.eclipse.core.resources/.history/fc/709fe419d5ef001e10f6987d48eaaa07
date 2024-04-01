@@ -1,0 +1,15 @@
+package Ejercicio1;
+
+public class Main {
+public static void main(String[] args) {
+	System.out.println("lalo");
+		Sistema t = new Sistema();
+		
+		
+		Usuario f = new Usuario("Francopi");
+		t.AgregarUsuario(f);
+		t.MostrarUsuarios();
+		
+		
+	}
+}
