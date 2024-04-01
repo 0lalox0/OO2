@@ -497,3 +497,26 @@ Caused by: java.lang.Exception: File not found: C:\Users\lalo\Downloads\ejercici
 2024-04-01 00:34:51,621 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
 2024-04-01 00:35:00,183 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
 2024-04-01 00:35:00,185 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:12:57,079 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-01 14:18:50,572 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:18:50,583 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:23:02,302 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:23:02,305 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:23:04,192 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:23:04,196 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:23:15,457 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:23:15,459 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:23:18,871 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:23:18,874 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:24:35,972 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:24:35,975 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:25:16,367 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:25:16,370 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:25:20,042 [Worker-12: Launching SistemaTest] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2024-04-01 14:25:20,081 [Worker-12: Launching SistemaTest] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2024-04-01 14:25:46,681 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:25:46,684 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:25:58,921 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:25:58,923 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
+2024-04-01 14:26:08,500 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\main\resources
+2024-04-01 14:26:08,502 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\lalo\Desktop\ejercicioDemo\src\test\resources
