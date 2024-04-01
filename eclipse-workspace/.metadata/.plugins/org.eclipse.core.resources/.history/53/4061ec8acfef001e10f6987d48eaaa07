@@ -1,0 +1,9 @@
+package Ejercicio1;
+
+public abstract class Publicacion {
+	public boolean SoyDe(Usuario user) {
+		return false;
+	}
+	private Publicacion origen;
+
+}
