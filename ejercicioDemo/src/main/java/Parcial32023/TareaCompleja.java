@@ -16,7 +16,7 @@ public class TareaCompleja extends Tarea {
 		return Tareas.stream().mapToInt(x -> x.calcularEstimado()).sum();
 	}
 	public double avanceDeTarea() {
-		return Tareas.stream().mapToInt(x -> x.getDuracion()).sum()/calcularEstimado();
+		return getDuracion()/calcularEstimado();
 	}
 	public int getDuracion() {
 		return Tareas.stream().mapToInt(x -> x.getDuracion()).sum();
